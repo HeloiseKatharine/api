@@ -1,0 +1,32 @@
+{
+  "despesas": [
+    {
+        "id": 1,
+        "descricao": "despesa de mercado",
+        "id_categoria": 2,
+        "id_usuario": 1,
+        "valor": 10,
+        "data": "1970-01-01"
+    },
+    {
+        "id": 1,
+        "descricao": "carro",
+        "id_categoria": 2,
+        "id_usuario": 1,
+        "valor": 10,
+        "data": "1970-01-01"
+    },
+  ],
+  "usuario": [
+   {
+        "id": 1,
+        "email": "jose@email",
+        "senha": "123"
+    },
+    {
+        "id": 2,
+        "email": "maria@email",
+        "senha": "123"
+    }
+  ]
+}
