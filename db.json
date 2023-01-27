@@ -2,25 +2,25 @@
   "despesa": [
     {
         "id": 1,
+        "data": "1970-01-01",
         "dados": [
           {
-          "descricao": "despesa de mercado",
-          "id_categoria": 2,
-          "id_usuario": 1,
-          "valor": 10,
-          "data": "1970-01-01" 
+            "descricao": "despesa de mercado",
+            "id_categoria": 2,
+            "id_usuario": 1,
+            "valor": 10
           }
         ]
     },
     {
         "id": 2,
+        "data": "2012-10-23",
         "dados": [
           {
-          "descricao": "despesa de mercado 2",
-          "id_categoria": 2,
-          "id_usuario": 1,
-          "valor": 10,
-          "data": "2012-10-23"
+            "descricao": "despesa de mercado 2",
+            "id_categoria": 2,
+            "id_usuario": 1,
+            "valor": 10
           }
         ]
     }
