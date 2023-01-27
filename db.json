@@ -74,5 +74,39 @@
         "email": "maria@email",
         "senha": "123"
     }
+ ],
+  "categoria":[
+   {
+        "id": "1",
+        "descricao": "Trabalho"
+    },
+    {
+        "id": "2",
+        "descricao": "Mercado"
+    },
+    {
+        "id": "3",
+        "descricao": "Casa"
+    },
+    {
+        "id": "4",
+        "descricao": "Carro"
+    },
+    {
+        "id": "5",
+        "descricao": "Netflix"
+    },
+    {
+        "id": "6",
+        "descricao": "Água"
+    },
+    {
+        "id": "7",
+        "descricao": "Luz"
+    },
+    {
+        "id": "8",
+        "descricao": "Internet"
+    }
  ]
 }
